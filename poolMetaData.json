@@ -1,6 +1,8 @@
 {
-"name": "New One Stake Pool",
-"description": "カルダノの分散に貢献できるよう、誠意をもって運営して参ります。宜しくお願い致します。",
-"ticker": "NOSP",
-"homepage": "https://twitter.com/Rd7hrujn2Xv5FS2"
+    "name": "New One Stake Pool",
+    "description": "カルダノの分散に貢献できるよう、誠意をもって運営して参ります。宜しくお願い致します。",
+    "ticker": "NOSP",
+    "homepage": "https://twitter.com/Rd7hrujn2Xv5FS2",
+    "extended": "",
+    "nonce":"1704960363"
 }
